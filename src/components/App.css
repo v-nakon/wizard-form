@@ -1,0 +1,12 @@
+.form {
+  width: 700px;
+  height: 500px;
+  margin: auto;
+  background-color: white;
+  border-radius: 20px;
+}
+
+form {
+  width: 300px;
+  margin: auto;
+}

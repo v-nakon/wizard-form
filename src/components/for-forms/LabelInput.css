@@ -1,0 +1,17 @@
+.input {
+  display: block;
+  border: #fa5a37 solid 1px;
+  height: 25px;
+  margin-top: 15px;
+  width: 300px;
+}
+
+.label {
+  color: #fa5a37;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.label-input {
+  margin-top: 15px;
+}
